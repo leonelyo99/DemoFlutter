@@ -1,4 +1,4 @@
-# Proyecto Flutter, demo de mi portafolio LEONEL MAZZAN
+# Proyecto Flutter, demo de mi portafolio [Leonel mazzan](https://leonelmazzan.com/)
 
 A new Flutter project.
 
